@@ -2,5 +2,5 @@
 
 
 print (" happy Vals day to all here. we spent it learning git merge" )
-print (" we went to the night club" )
+print (" we went to the night club later night in Toronto" )
 print (" I had it done")
