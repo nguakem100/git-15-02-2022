@@ -2,4 +2,4 @@
 
 print (" happy Vals day to all here. how was it spent learning git merge" )
 print (" I had it done")
-pring (" How are u doing")
+pring (" How are u doin")
